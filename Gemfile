@@ -41,6 +41,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'fuubar'
   gem "codeclimate-test-reporter"
+  gem 'simplecov', :require => false
 
 end
 
