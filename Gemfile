@@ -39,6 +39,7 @@ gem 'guard-rspec', require: false
 group :test do
 
   gem 'shoulda-matchers'
+  gem 'fuubar'
 
 end
 
