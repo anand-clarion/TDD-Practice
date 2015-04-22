@@ -1,7 +1,7 @@
 FactoryGirl.define do
   factory :post do
     title "MyString"
-    content "MyText"
+    content "My First Post"
   end
 
 end
