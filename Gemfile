@@ -40,6 +40,7 @@ group :test do
 
   gem 'shoulda-matchers'
   gem 'fuubar'
+  gem "codeclimate-test-reporter"
 
 end
 
